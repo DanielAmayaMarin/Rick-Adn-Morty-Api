@@ -1,1 +1,0 @@
-# Rick-Adn-Morty-Api
